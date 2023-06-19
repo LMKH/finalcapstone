@@ -25,7 +25,7 @@ Installation
 Please remember this is in Python, so please use accordingly.
 
 On Github.com, navigate to the main page of this repository.
-Above the list of files, click <<code>>
+Above the list of files, click "code"
 Click download zip. This then should allow you to have a copy of this code to then impliment into your IDE.
 
 
