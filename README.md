@@ -3,13 +3,13 @@
 File Name - Task Manager (Task 17)
 
 Contents:
-Project Information
-Installation
-Usage
-End Credits
+- Project Information
+- Installation
+- Usage
+- End Credits
 
 
-Project Information
+- Project Information
 In this project I had to update and improve a programme of code.
 I had to follow the instructions given and update and streamline the code so it was more efficient.
 
@@ -21,7 +21,7 @@ The user can view their own tasks and tasks that are still in need of completing
 The programme can also run statistic infomation and generate reports.
 
 
-Installation
+- Installation
 Please remember this is in Python, so please use accordingly.
 
 On Github.com, navigate to the main page of this repository.
@@ -29,7 +29,7 @@ Above the list of files, click "code"
 Click download zip. This then should allow you to have a copy of this code to then impliment into your IDE.
 
 
-Usage
+- Usage
 First things first - You will be promted to input your user name & password (see below)
 ***Image Section***
 
@@ -63,6 +63,6 @@ Generate report, option "gr" - update accordingly.
 Display Statistics, option "ds". Simply shows the amount of current users and the amount of current tasks.
 ***Image Section***
 
-End Credits
-- Created by HyperionDev.
-- added by Liam K
+- End Credits
+Created by HyperionDev.
+Added on to by Liam K
