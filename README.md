@@ -9,7 +9,7 @@ Usage
 End Credits
 
 
-Project Information
+Project Information\n
 In this project I had to update and improve a programme of code.
 I had to follow the instructions given and update and streamline the code so it was more efficient.
 
