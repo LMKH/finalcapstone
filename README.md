@@ -60,3 +60,9 @@ Option 3 - Change the Assigned User - Gives you the option to switch the task to
 Generate report, option "gr" - update accordingly.
 ***Image Section***
 
+Display Statistics, option "ds". Simply shows the amount of current users and the amount of current tasks.
+***Image Section***
+
+End Credits
+- Created by HyperionDev.
+- added by Liam K
