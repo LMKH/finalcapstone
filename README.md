@@ -1,13 +1,13 @@
 # finalcapstone
 #this is the README file for the last capstone project.
 File Name - Task Manager (Task 17)
-
+***
 Contents:
 - Project Information
 - Installation
 - Usage
 - End Credits
-
+***
 
 - Project Information
   
@@ -21,16 +21,18 @@ All they need to do is create an account for each individual along with a passwo
 The user can view their own tasks and tasks that are still in need of completing.
 The programme can also run statistic infomation and generate reports.
 
-
+***
 - Installation
+
 Please remember this is in Python, so please use accordingly.
 
 On Github.com, navigate to the main page of this repository.
 Above the list of files, click "code"
 Click download zip. This then should allow you to have a copy of this code to then impliment into your IDE.
 
-
+***
 - Usage
+  
 First things first - You will be promted to input your user name & password (see below)
 ***Image Section***
 
@@ -63,7 +65,8 @@ Generate report, option "gr" - update accordingly.
 
 Display Statistics, option "ds". Simply shows the amount of current users and the amount of current tasks.
 ***Image Section***
-
+***
 - End Credits
+  
 Created by HyperionDev.
 Added on to by Liam K
