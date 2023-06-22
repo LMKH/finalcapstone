@@ -55,11 +55,9 @@ Option 1 - Mark as Complete - Simply marks the task as complete
 Option 2 - Change the Due Date - Gives you the option to ajust the due date to your preffered date
 Option 3 - Change the Assigned User - Gives you the option to switch the task to a different/new user.
 
-Generate report, option "gr" - update accordingly.
-This shows you indepth all the keys and files in the programme.
+Generate report, option "gr". This shows you indepth all the keys and files in the programme.
 
-Display Statistics, option "ds". 
-Simply shows the amount of current users and the amount of current tasks.
+Display Statistics, option "ds". Simply shows the amount of current users and the amount of current tasks.
 
 ***
 - End Credits
