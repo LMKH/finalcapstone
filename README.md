@@ -63,4 +63,4 @@ Display Statistics, option "ds". Simply shows the amount of current users and th
 - End Credits
   
 Created by HyperionDev.
-Added on to by Liam K
+Added on to by Liam Kavanagh
